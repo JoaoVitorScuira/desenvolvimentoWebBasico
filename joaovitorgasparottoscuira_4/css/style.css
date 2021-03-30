@@ -1,0 +1,62 @@
+/*Aqui é uma folha de estilos css */
+header{
+    background-color: darkkhaki;
+}
+
+body{
+    background-color: rgb(194, 191, 211);
+    font-family: Arial;
+}
+
+footer{
+    background-color: darkseagreen;
+    font-family: arial;
+    text-align: center;
+    width: 522px;
+    padding: 50px;
+    margin: 40px;
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+p.destaque{
+    background-color: darkslategray;
+}
+
+p{ /*Aqui eu coloco os estilos paras os locais que tem a tag P*/
+    color: #8a2e8a;
+    font-family: arial;
+    background-color: rgb(150, 169, 209);
+    font-size: 25px;
+    text-align: center;
+    width: 500px;
+    padding: 50px;
+    margin: 50px;
+}
+
+h1{
+    color: rgb(131, 39, 39);
+    font-family: fantasy;
+    font-size: 35px;
+    border-style: dotted;
+
+}
+
+h2{
+    color: darkmagenta;
+    font: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: darkred;
+    border-style: groove;
+}
+
+h3{
+    background-color: darkseagreen;
+    font: 150px;
+    width: 6000px;
+    padding: 20px;
+}
